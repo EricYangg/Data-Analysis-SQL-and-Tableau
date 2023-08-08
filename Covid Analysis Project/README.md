@@ -10,5 +10,5 @@ Topics covered
   - Create tables
   - Create View
 - Tableau
-  -Infection forecast
-  -Global map of infected population
+  - Infection forecast
+  - Global map of infected population
