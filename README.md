@@ -7,4 +7,6 @@
   - Temp tables
   - Create tables
   - Create View
-- Tableau 
+- Tableau
+  - Infection forecast
+  - Global map of infected population
