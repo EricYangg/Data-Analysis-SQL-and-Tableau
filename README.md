@@ -11,8 +11,14 @@
   - Infection forecast
   - Global map of infected population
 
-## Project 2 - Netflix Data Cleaning w/ SQL
-- Work in Progress
+## [Project 2 - Netflix Data Cleaning w/ SQL](https://github.com/EricYangg/Data-Science-Portfolio/tree/main/Netflix%20Data%20Analysis)
+Data Cleaning with SQL
+- Checking for null values
+- Replace or delete null cells 
+- Extracting values from cells with multiple values
+Visualization in Tableau
+- ...
+
 
 ## Project 3 - Pokémon Pokédex Web Scraping and Visualization
-- Work in Progress 
+- ... 
