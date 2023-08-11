@@ -1,13 +1,13 @@
 # Data-Science-Portfolio
 
 ## [Project 1 - Covid Data Exploration](https://github.com/EricYangg/Data-Science-Portfolio/tree/main/Covid%20Analysis%20Project)
-- SQL
+- Data Exploration in SQL
   - Joins
   - Comman Table Expression
   - Temp tables
   - Create tables
   - Create View
-- Tableau
+- Visualization in Tableau
   - Infection forecast
   - Global map of infected population
 
