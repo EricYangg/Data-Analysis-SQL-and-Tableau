@@ -17,8 +17,8 @@
   - Replace or delete null cells 
   - Extracting values from cells with multiple values 
 - Visualization in Tableau
-  - ...
+  - ✍️
 
 
 ## Project 3 - Pokémon Pokédex Web Scraping and Visualization
-- ... 
+- ✍️
