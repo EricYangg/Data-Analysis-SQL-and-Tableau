@@ -1,4 +1,4 @@
-# Netflix Data Analysis and Cleaning
+# Netflix Data Cleaning
 
 Original dataset: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
