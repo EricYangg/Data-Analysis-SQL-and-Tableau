@@ -11,7 +11,7 @@
   - Infection forecast
   - Global map of infected population
 
-## Project 2 - Housing Data Cleaning w/ SQL
+## Project 2 - Netflix Data Cleaning w/ SQL
 - Work in Progress
 
 ## Project 3 - Pokémon Pokédex Web Scraping and Visualization
