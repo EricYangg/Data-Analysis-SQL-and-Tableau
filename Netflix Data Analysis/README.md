@@ -7,4 +7,4 @@ Original dataset: https://www.kaggle.com/datasets/shivamb/netflix-shows
   - Replace or delete null cells 
   - Extracting values from cells with multiple values 
 - Visualization in Tableau
-  - ...
+  - ✍️
