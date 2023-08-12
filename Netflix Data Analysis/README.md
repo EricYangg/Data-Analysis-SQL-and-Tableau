@@ -6,5 +6,9 @@ Original dataset: https://www.kaggle.com/datasets/shivamb/netflix-shows
   - Checking for null values
   - Replace or delete null cells 
   - Extracting values from cells with multiple values 
-- Visualization in Tableau
-  - ✍️
+- [Visualization in Tableau](https://public.tableau.com/app/profile/eric.yang1606/viz/NetflixDataProject_16918216660800/Dashboard1)
+  - Most popular director and actor/actress
+  - Most popular genre
+  - Most common audience ratings
+  - Global release count
+
