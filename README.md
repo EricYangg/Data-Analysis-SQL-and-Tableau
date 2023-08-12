@@ -17,7 +17,10 @@
   - Replace or delete null cells 
   - Extracting values from cells with multiple values 
 - Visualization in Tableau
-  - ✍️
+  - Most popular director and actor/actress
+  - Most popular genre
+  - Most common audience ratings
+  - Global release count
 
 ## Pokémon Pokédex Web Scraping and Visualization
 - ✍️
