@@ -2,6 +2,7 @@
 
 This portfolio consists of projects I've complete and am continuing to work on.
 The topics covered in these projects are 
+
 - SQL
 - Python
 - Tableau
@@ -9,6 +10,7 @@ The topics covered in these projects are
 - Data Cleaning
 - Data Visualization
 - And More!
+
 Feel free to check out the projects below!
 
 # [Covid Data Exploration](https://github.com/EricYangg/Data-Science-Portfolio/tree/main/Covid%20Analysis%20Project)
