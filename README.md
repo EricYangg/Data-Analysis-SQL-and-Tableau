@@ -35,5 +35,8 @@ Feel free to check out the projects below!
   - Most common audience ratings
   - Global release count
 
-# Pokémon Pokédex Web Scraping and Visualization
+# Pokémon Pokédex Web Scraping, Data Exploration and Data Visualization
+- Web Scraping
+  - Scraping with BeautifulSoup
+  - Exported as csv
 - ✍️
