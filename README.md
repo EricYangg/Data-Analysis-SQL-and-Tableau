@@ -1,6 +1,6 @@
-# Hello! Welcome to my Data Analytics/Science Portfolio!
+# Hello! 
 
-This portfolio consists of projects I've complete and am continuing to work on.
+This repo consists of projects I've complete and am continuing to work on covering mainly the use of SQL and Tableau for data analysis.
 The topics covered in these projects are 
 
 - SQL
